@@ -2,6 +2,7 @@
   "name": "formulario-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rsanchez19.github.io/formulario-react-app/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.11.0",
